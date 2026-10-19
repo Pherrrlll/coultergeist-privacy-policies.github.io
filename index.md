@@ -12,4 +12,4 @@ This site hosts the privacy policies for all games published under Coultergeist.
 - [Ocean Adventure](ocean-adventure/privacy-policy.html)
 -->
 
-_Privacy policies coming soon._
+- [Relicbearer TD](relicbearer-td/privacy-policy.html)
